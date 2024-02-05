@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,AUC,objective,metric,boosting_type,learning_rate,num_leaves,max_depth,min_data_in_leaf,is_unbalance,max_bin,verbose,random_state,num_boost_round,inner_threshold,threshold
+0.8988556662975268,0.203125,0.016581632653061226,0.030660377358490566,0.5048181212427774,0.003,511,10,1023,0.5,1,3000
